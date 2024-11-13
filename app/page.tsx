@@ -141,7 +141,7 @@ export default function InteractivePricingPage() {
                     isYearly ? "translate-x-6" : "translate-x-0"
                   }`}
                 />
-              </button>
+              </button> 
               <span>Yearly Billing</span>
               <span className="bg-[hsl(14,92%,95%)] text-[hsl(15,100%,70%)] px-2 py-0.5 rounded-full text-xs font-bold">
                 25% discount
